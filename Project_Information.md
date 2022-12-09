@@ -2,8 +2,6 @@
 
 ## How to Use
 
-[Video Demo](#)
-
 The CrimLog Project Board provides insight into the implementation plan for CrimLog. Additionally, it provides tracebility between GitHub Project Cards and CrimLog User Stories and Architectural Plan ([documents found below](#supporting-documents)).
 
 ### Repositories
