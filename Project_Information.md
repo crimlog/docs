@@ -43,7 +43,7 @@ Items on the KanBan board are added from Issues within the repositories. Items w
 
 - Percent Complete - The percentage of an item that has been completed.
 
-- User Story - The user stories where the item or issue originates from. These user stories are identified by ID and can be found in the [supporting documents below](#supporting-documents).
+- User Story - The user stories where the item or issue originates from. 
 
 - Architectural Plan - The section of the design report/architectural plan where the item was initially designed. This design report/architectural plan can be found in the [supporting documents below](#supporting-documents).
 
@@ -64,4 +64,3 @@ The List Board view shows a list of items by title. Each item in the chart also 
 
 [Design Report/Architectural Plan](https://1drv.ms/b/s!AiCF1hcKxI7hhyieEy8h1eWCUFS_?e=PBor82)
 
-[User Stories](https://1drv.ms/x/s!AiCF1hcKxI7hhn9KVQeXh_fbDS6b?e=k3gWiq)
